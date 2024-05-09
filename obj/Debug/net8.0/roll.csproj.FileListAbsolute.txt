@@ -1,0 +1,14 @@
+C:\Users\Ali\Desktop\roll\roll\obj\Debug\net8.0\roll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\roll\roll\obj\Debug\net8.0\roll.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\roll\roll\obj\Debug\net8.0\roll.AssemblyInfo.cs
+C:\Users\Ali\Desktop\roll\roll\obj\Debug\net8.0\roll.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\roll\roll\bin\Debug\net8.0\roll.exe
+C:\Users\Ali\Desktop\roll\roll\bin\Debug\net8.0\roll.deps.json
+C:\Users\Ali\Desktop\roll\roll\bin\Debug\net8.0\roll.runtimeconfig.json
+C:\Users\Ali\Desktop\roll\roll\bin\Debug\net8.0\roll.dll
+C:\Users\Ali\Desktop\roll\roll\bin\Debug\net8.0\roll.pdb
+C:\Users\Ali\Desktop\roll\roll\obj\Debug\net8.0\roll.dll
+C:\Users\Ali\Desktop\roll\roll\obj\Debug\net8.0\refint\roll.dll
+C:\Users\Ali\Desktop\roll\roll\obj\Debug\net8.0\roll.pdb
+C:\Users\Ali\Desktop\roll\roll\obj\Debug\net8.0\roll.genruntimeconfig.cache
+C:\Users\Ali\Desktop\roll\roll\obj\Debug\net8.0\ref\roll.dll
